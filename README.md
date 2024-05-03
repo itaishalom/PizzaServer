@@ -101,4 +101,5 @@ The Kitchen worker uses the Kitchen controller to update the status. The control
 
 ## ⭐System Architecture and flow:
 
-![Untitled Diagram drawio](https://github.com/itaishalom/PizzaServer/assets/9066121/1bf616c5-7461-4903-a18f-0591de71c3f4)
+![Untitled Diagram drawio](https://github.com/itaishalom/PizzaServer/assets/9066121/82144496-50cd-47f4-b1d9-8d9f5f50b626)
+
